@@ -1,4 +1,3 @@
-###################################################################################################################################################################################################################################################
 SUPPLI_DATA Files::
 SUPPLI_DATA__DEGs_TCGA: Information about Differentially Expressed Genes (DEGs) from selected cancer types.
 SUPPLI_DATA__Integrated Drug-Target: Details about drug-target interactions from various databases.
