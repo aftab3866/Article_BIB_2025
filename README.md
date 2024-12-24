@@ -19,6 +19,3 @@ tcga_data_Analysis.R: Script for analyzing TCGA data, including preprocessing, D
 tcga_data_Analysis----SURVIVAL.R: Survival analysis based on TCGA data, linking gene expression profiles to patient outcomes.
 Analysing data from GEO.R: Script for processing and analyzing GEO datasets, focusing on differential gene expression and pathway enrichment.
 WGCNA-final script__Tested for DEGs profile__Perfectly working.R: Finalized script for performing Weighted Gene Co-expression Network Analysis (WGCNA) on DEGs, including clustering and module identification.
-
-
-######################################################################################################(write me --> aftab07alig@gmail.com)###############################################################################################################
